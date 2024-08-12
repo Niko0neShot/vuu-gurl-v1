@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				401,
-				-230
+				-234
 			],
 			"loop": false,
 			"fps": 13,
@@ -56,21 +56,39 @@
 			"name": "down"
 		}
 	],
+	"sing_anims_prefix": "sing",
 	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
 	"image": "characters/BBHarold",
 	"position": [
-		280,
-		-90
+		50,
+		-300
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		105,
+		105,
+		105
 	],
 	"healthicon": "harold",
 	"flip_x": false,
 	"healthbar_colors": [
-		225,
-		225,
-		225
+		105,
+		105,
+		105
 	],
 	"camera_position": [
-		-740,
+		-650,
 		-220
 	],
 	"sing_duration": 4,

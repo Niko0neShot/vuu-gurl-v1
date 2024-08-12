@@ -55,7 +55,7 @@
 			]
 		],
 		[
-			"clowning",
+			"stage play",
 			"nobody",
 			[
 				146,
@@ -65,7 +65,7 @@
 		],
 		[
 			"approaching",
-			"nobody",
+			"fog",
 			[
 				146,
 				113,
@@ -84,15 +84,6 @@
 		[
 			"Forgotten",
 			"scrap",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Chumes",
-			"nobody",
 			[
 				146,
 				113,
@@ -120,6 +111,24 @@
 		[
 			"Creation",
 			"emily",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Improbable Foes",
+			"emily",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"geraldgame",
+			"nobody",
 			[
 				146,
 				113,

@@ -1,28 +1,28 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 13,
+			"anim": "danceRight",
+			"indices": [],
 			"image": "",
-			"name": "dance right",
-			"indices": []
+			"name": "dance right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 13,
+			"anim": "danceLeft",
+			"indices": [],
 			"image": "",
-			"name": "dance left",
-			"indices": []
+			"name": "dnace left"
 		}
 	],
 	"sing_anims_prefix": "sing",
@@ -35,10 +35,10 @@
 		"gameOver",
 		"gameOverEnd"
 	],
-	"image": "characters/GFVuu",
+	"image": "characters/GFVuunew",
 	"position": [
-		210,
-		130
+		280,
+		140
 	],
 	"healthicon_offsets": [
 		0,
@@ -57,9 +57,9 @@
 		161
 	],
 	"camera_position": [
-		-160,
+		-310,
 		80
 	],
 	"sing_duration": 6.09999999999999,
-	"scale": 3
+	"scale": 2.7
 }
