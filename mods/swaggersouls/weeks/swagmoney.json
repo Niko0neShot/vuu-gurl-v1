@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"SwagMoney",
+			"oliva",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "SWAGMONEY",
+	"weekName": "SWAGMONEY",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "no leaks",
+	"startUnlocked": true
+}

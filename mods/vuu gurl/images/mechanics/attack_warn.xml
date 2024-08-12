@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attack_warn.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="press space to attack0000" x="12" y="12" width="645" height="157"/>
+	<SubTexture name="press space to attack0001" x="12" y="12" width="645" height="157"/>
+	<SubTexture name="press space to attack0002" x="669" y="12" width="635" height="155" frameX="-5" frameY="-1" frameWidth="645" frameHeight="157"/>
+	<SubTexture name="press space to attack0003" x="669" y="12" width="635" height="155" frameX="-5" frameY="-1" frameWidth="645" frameHeight="157"/>
+	<SubTexture name="press space to attack0004" x="12" y="181" width="625" height="152" frameX="-10" frameY="-2" frameWidth="645" frameHeight="157"/>
+	<SubTexture name="press space to attack0005" x="12" y="181" width="625" height="152" frameX="-10" frameY="-2" frameWidth="645" frameHeight="157"/>
+	<SubTexture name="press space to attack0006" x="649" y="181" width="635" height="154" frameX="-5" frameY="-1" frameWidth="645" frameHeight="157"/>
+	<SubTexture name="press space to attack0007" x="649" y="181" width="635" height="154" frameX="-5" frameY="-1" frameWidth="645" frameHeight="157"/>
+	<SubTexture name="press space to attack end0000" x="12" y="347" width="704" height="220" frameX="-56" frameY="-57" frameWidth="849" frameHeight="351"/>
+	<SubTexture name="press space to attack end0001" x="12" y="579" width="759" height="279" frameX="-32" frameY="-24" frameWidth="849" frameHeight="351"/>
+	<SubTexture name="press space to attack end0002" x="12" y="870" width="796" height="323" frameX="-15" frameY="-2" frameWidth="849" frameHeight="351"/>
+	<SubTexture name="press space to attack end0003" x="12" y="1205" width="849" height="351"/>
+</TextureAtlas>

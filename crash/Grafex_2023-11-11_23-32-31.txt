@@ -1,0 +1,16 @@
+hscript/Interp.hx (line 384)
+hscript/Interp.hx (line 692)
+C:\HaxeToolkit\haxe\std/cpp/_std/Reflect.hx (line 63)
+grafex/system/loader/GrfxStage.hx (line 58)
+grafex/states/playstate/PlayState.hx (line 2429)
+grafex/states/playstate/PlayState.hx (line 3091)
+flixel/FlxState.hx (line 220)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: hscript:45: hscript:45: Unknown variable: doLinesTween
+Please report this error to the pursnake in Discord
+

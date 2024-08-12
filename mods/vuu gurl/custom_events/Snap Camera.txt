@@ -1,0 +1,4 @@
+Instantly snaps camera to position
+
+Value 1: x
+Value 2: y

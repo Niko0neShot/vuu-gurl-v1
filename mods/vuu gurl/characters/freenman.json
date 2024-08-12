@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				74,
+				71
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"image": "",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				63,
+				64
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"image": "",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				75,
+				68
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"image": "",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				65
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"image": "",
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				65
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"image": "",
+			"name": "right",
+			"indices": []
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/FreenMan",
+	"position": [
+		-230,
+		200
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		102,
+		151,
+		143
+	],
+	"healthicon": "freens",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		131,
+		123
+	],
+	"camera_position": [
+		-400,
+		-550
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="combo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dp combo0000" x="2" y="2" width="321" height="120" frameX="-5" frameY="0" frameWidth="326" frameHeight="120"/>
+	<SubTexture name="dp combo0001" x="2" y="2" width="321" height="120" frameX="-5" frameY="0" frameWidth="326" frameHeight="120"/>
+	<SubTexture name="dp combo0002" x="2" y="2" width="321" height="120" frameX="-5" frameY="0" frameWidth="326" frameHeight="120"/>
+	<SubTexture name="dp combo0003" x="2" y="124" width="326" height="118" frameX="0" frameY="-1" frameWidth="326" frameHeight="120"/>
+	<SubTexture name="dp combo0004" x="2" y="124" width="326" height="118" frameX="0" frameY="-1" frameWidth="326" frameHeight="120"/>
+	<SubTexture name="dp combo0005" x="2" y="124" width="326" height="118" frameX="0" frameY="-1" frameWidth="326" frameHeight="120"/>
+</TextureAtlas>

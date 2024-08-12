@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"image": "",
+			"offsets": [
+				7,
+				6
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"image": "",
+			"offsets": [
+				1,
+				6
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"image": "",
+			"offsets": [
+				15,
+				2
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"image": "",
+			"offsets": [
+				3,
+				5
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"image": "",
+			"offsets": [
+				14,
+				4
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/Olivia",
+	"position": [
+		0,
+		140
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		40,
+		44,
+		98
+	],
+	"healthicon": "olivia",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		24,
+		78
+	],
+	"camera_position": [
+		-250,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

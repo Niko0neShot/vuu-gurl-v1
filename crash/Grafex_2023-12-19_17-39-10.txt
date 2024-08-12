@@ -1,0 +1,20 @@
+hscript/Interp.hx (line 384)
+hscript/Interp.hx (line 358)
+grafex/system/script/GrfxScriptHandler.hx (line 721)
+grafex/system/script/GrfxScriptHandler.hx (line 711)
+grafex/system/script/GrfxScriptHandler.hx (line 57)
+grafex/system/statesystem/MusicBeatSubstate.hx (line 44)
+grafex/system/statesystem/MusicBeatSubstate.hx (line 19)
+grafex/states/substates/PauseSubState.hx (line 67)
+grafex/states/playstate/PlayState.hx (line 3355)
+grafex/states/playstate/PlayState.hx (line 3057)
+flixel/FlxState.hx (line 220)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: hscript:1: hscript:1: Unknown variable: package
+Please report this error to the pursnake in Discord
+

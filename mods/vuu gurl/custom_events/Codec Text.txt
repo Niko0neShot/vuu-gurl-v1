@@ -1,0 +1,5 @@
+Codec Text. Needs mgsCodec.lua in order to work 
+correctly
+
+Value 1: Text
+Value 2: Alpha

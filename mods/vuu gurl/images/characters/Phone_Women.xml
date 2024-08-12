@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Phone_Women.png">
+<SubTexture name="down0000" x="0" y="0" width="291" height="526" frameX="-387" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="down0001" x="291" y="0" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0000" x="579" y="0" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0001" x="867" y="0" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0002" x="1155" y="0" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0003" x="1443" y="0" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0000" x="1731" y="0" width="303" height="526" frameX="-375" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0001" x="0" y="526" width="296" height="526" frameX="-382" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="no ring0000" x="296" y="526" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0000" x="584" y="526" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0001" x="872" y="526" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="ring0000" x="1160" y="526" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="ring0001" x="1448" y="526" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="ring0002" x="1736" y="526" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="ring0003" x="0" y="1052" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0000" x="288" y="1052" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0001" x="576" y="1052" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0002" x="864" y="1052" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0003" x="1152" y="1052" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0004" x="1440" y="1052" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0005" x="1728" y="1052" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0006" x="0" y="1578" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0007" x="288" y="1578" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0008" x="576" y="1578" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0009" x="864" y="1578" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="transform0010" x="1152" y="1578" width="288" height="526" frameX="-390" frameY="-282" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0000" x="1440" y="1578" width="289" height="534" frameX="-390" frameY="-274" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0001" x="1729" y="1578" width="293" height="527" frameX="-390" frameY="-281" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,158 @@
+{
+	"songs": [
+		[
+			"Confusing Story",
+			"linkzin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Chumes",
+			"pacmike",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blubber",
+			"harold",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lady",
+			"ofc",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"watchful",
+			"nobody",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"restless",
+			"nobody",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"clowning",
+			"nobody",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"approaching",
+			"nobody",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"8th birthday!",
+			"nobody",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Forgotten",
+			"scrap",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Chumes",
+			"nobody",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bluebox",
+			"abdul",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Showtime",
+			"ice",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Creation",
+			"emily",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hidden",
+			"nobody",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal Delivery",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Vuu Gurl",
+	"weekName": "Vuu Gurl",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

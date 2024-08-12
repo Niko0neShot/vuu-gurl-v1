@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="IceCreamBear.png">
+<SubTexture name="down0000" x="0" y="0" width="244" height="92" frameX="-92" frameY="-240" frameWidth="400" frameHeight="400" />
+<SubTexture name="down0001" x="244" y="0" width="231" height="103" frameX="-98" frameY="-229" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0000" x="0" y="103" width="198" height="122" frameX="-128" frameY="-209" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0001" x="198" y="103" width="191" height="130" frameX="-130" frameY="-201" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0002" x="0" y="233" width="184" height="138" frameX="-133" frameY="-193" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0003" x="184" y="233" width="181" height="142" frameX="-134" frameY="-189" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0000" x="0" y="375" width="179" height="138" frameX="-91" frameY="-193" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0001" x="179" y="375" width="175" height="141" frameX="-101" frameY="-190" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0000" x="0" y="516" width="202" height="149" frameX="-160" frameY="-182" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0001" x="202" y="516" width="193" height="153" frameX="-160" frameY="-178" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0000" x="0" y="669" width="192" height="205" frameX="-114" frameY="-127" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0001" x="192" y="669" width="210" height="184" frameX="-105" frameY="-148" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

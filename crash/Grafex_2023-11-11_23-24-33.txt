@@ -1,0 +1,14 @@
+hscript/Interp.hx (line 384)
+hscript/Interp.hx (line 692)
+grafex/system/loader/GrfxStage.hx (line 44)
+grafex/states/playstate/PlayState.hx (line 598)
+flixel/FlxGame.hx (line 642)
+flixel/FlxGame.hx (line 729)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 556)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: hscript:20: hscript:20: Unknown variable: bskyboxg
+Please report this error to the pursnake in Discord
+

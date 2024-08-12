@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle alt",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "ring start",
+			"indices": [],
+			"name": "ring start",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": true,
+			"fps": 11,
+			"anim": "ring loop",
+			"indices": [],
+			"name": "ring loop",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-422,
+				-8
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "ring stop",
+			"indices": [],
+			"name": "ring stop",
+			"image": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-422,
+				-8
+			],
+			"anim": "transform",
+			"fps": 11,
+			"name": "transform",
+			"image": "",
+			"indices": []
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/PhoneWomen",
+	"position": [
+		-330,
+		110
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		161,
+		161,
+		161
+	],
+	"healthicon": "chum",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-80,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 2.8
+}

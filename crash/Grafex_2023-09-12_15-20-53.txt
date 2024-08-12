@@ -1,0 +1,4 @@
+
+Uncaught Error: assets/states/TitleState.hx:319: Unknown variable: logoB1
+Please report this error to the pursnake in Discord
+

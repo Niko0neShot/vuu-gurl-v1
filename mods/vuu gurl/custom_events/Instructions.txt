@@ -1,0 +1,9 @@
+1.Use Add Stage to add your stage's script Into 
+the stage.
+2.Use Set Visibility to set If it's visible or not.
+3.Use Set Character XY to place the characters in the 
+proper stage places.
+I recommend stacking all 3 of these events together, 
+use multiple "Set Visibility" Events too.
+You could add a variable that checks if your stage Is
+visible and changes character XY if you're actually good at lua.

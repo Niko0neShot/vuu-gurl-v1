@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="creation-fox.png">
+<SubTexture name="creation-fox down0000" x="358" y="744" width="352" height="225" frameX="-100" frameY="-346" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox down0001" x="358" y="744" width="352" height="225" frameX="-100" frameY="-346" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox down0002" x="352" y="259" width="349" height="230" frameX="-102" frameY="-341" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox down0003" x="352" y="259" width="349" height="230" frameX="-102" frameY="-341" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox idle0000" x="0" y="744" width="358" height="232" frameX="-103" frameY="-337" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox idle0001" x="0" y="744" width="358" height="232" frameX="-103" frameY="-337" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox idle0002" x="0" y="744" width="358" height="232" frameX="-103" frameY="-337" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox idle0003" x="702" y="243" width="351" height="237" frameX="-107" frameY="-332" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox idle0004" x="702" y="243" width="351" height="237" frameX="-107" frameY="-332" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox idle0005" x="702" y="243" width="351" height="237" frameX="-107" frameY="-332" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox left0000" x="702" y="0" width="356" height="243" frameX="-96" frameY="-326" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox left0001" x="702" y="0" width="356" height="243" frameX="-96" frameY="-326" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox left0002" x="0" y="259" width="352" height="248" frameX="-102" frameY="-322" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox left0003" x="0" y="259" width="352" height="248" frameX="-102" frameY="-322" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox right0000" x="355" y="507" width="357" height="234" frameX="-124" frameY="-338" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox right0001" x="355" y="507" width="357" height="234" frameX="-124" frameY="-338" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox right0002" x="0" y="507" width="355" height="237" frameX="-122" frameY="-335" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox right0003" x="0" y="507" width="355" height="237" frameX="-122" frameY="-335" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox up0000" x="0" y="0" width="349" height="259" frameX="-106" frameY="-312" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox up0001" x="0" y="0" width="349" height="259" frameX="-106" frameY="-312" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox up0002" x="349" y="0" width="353" height="252" frameX="-104" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="creation-fox up0003" x="349" y="0" width="353" height="252" frameX="-104" frameY="-319" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

@@ -1,0 +1,4 @@
+Timers were shit so I made it an event
+
+Value 1: Top and Char (Example: "top1 boyfriend")
+Value 2: Direction (Defaults to right)

@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"image": "",
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				78,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"image": "",
+			"name": "left"
+		},
+		{
+			"offsets": [
+				36,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"image": "",
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-51,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"image": "",
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-18,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"image": "",
+			"name": "right"
+		},
+		{
+			"offsets": [
+				52,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"image": "",
+			"name": "bf miss left"
+		},
+		{
+			"offsets": [
+				49,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"image": "",
+			"name": "bf miss down"
+		},
+		{
+			"offsets": [
+				-49,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"image": "",
+			"name": "bf miss up"
+		},
+		{
+			"offsets": [
+				-33,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"image": "",
+			"name": "bf miss right"
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/beatdropbf",
+	"position": [
+		0,
+		140
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		39,
+		32,
+		55
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		19,
+		12,
+		35
+	],
+	"camera_position": [
+		160,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

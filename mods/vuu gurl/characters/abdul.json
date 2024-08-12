@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-136
+			],
+			"anim": "idle",
+			"fps": 24,
+			"image": "",
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-176
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"image": "",
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-231
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"image": "",
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"image": "",
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				-154
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"image": "",
+			"name": "right",
+			"indices": []
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/abdul",
+	"position": [
+		-120,
+		-30
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		18,
+		28,
+		63
+	],
+	"healthicon": "abdul",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		8,
+		43
+	],
+	"camera_position": [
+		180,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

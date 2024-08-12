@@ -1,0 +1,3 @@
+The Pink Vignette Stuff from VS Impostor
+Value 1: Fade Time
+Value 2: Free value for onEvent

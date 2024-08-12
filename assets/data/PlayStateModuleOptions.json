@@ -1,0 +1,23 @@
+{
+	angledCamera: false,
+	angledCameraMult: .75,
+
+	cameraMoveOffset: 10,
+
+	camZoomByPos: false,
+
+	workLikePsych: true,
+
+	useCustomPause: true
+
+	/*angledCamera: false,
+	angledCameraMult: .75,
+
+	cameraMoveOffset: 3.5,
+
+	camZoomByPos: false,
+
+	workLikePsych: true,
+
+	useCustomPause: false*/
+}

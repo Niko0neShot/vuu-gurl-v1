@@ -1,0 +1,4 @@
+Does the character exit tweens used in the Unwell BETADCIU
+
+Value 1: Character
+Value 2: Modifications

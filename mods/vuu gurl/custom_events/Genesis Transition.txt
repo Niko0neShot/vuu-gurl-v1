@@ -1,0 +1,2 @@
+Value 1: Fade in or out (Use "in" or "out")
+Value 2: Speed

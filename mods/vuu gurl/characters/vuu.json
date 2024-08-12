@@ -1,0 +1,140 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-68,
+				-2
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 13,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 13,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				5
+			],
+			"anim": "singUPmiss",
+			"fps": 13,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				5
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 13,
+			"name": "right miss",
+			"indices": []
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/VuuGAL",
+	"position": [
+		-50,
+		100
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		43,
+		52,
+		184
+	],
+	"healthicon": "vuu",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		52,
+		184
+	],
+	"camera_position": [
+		-214,
+		-317
+	],
+	"sing_duration": 6.1,
+	"scale": 3.5
+}

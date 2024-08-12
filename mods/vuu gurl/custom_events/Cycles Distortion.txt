@@ -1,0 +1,7 @@
+Value 1 = float to change (amount or pixel), ease
+Value 2 = new float value for Value 1, duration
+
+Example:
+
+amount,quadInOut
+-1.25,0.5

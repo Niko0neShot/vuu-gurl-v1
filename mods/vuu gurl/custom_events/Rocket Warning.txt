@@ -1,0 +1,6 @@
+Rocket Warning
+
+Value 1: Note Number [0-7]
+(0-3 is Opponent, 4-7 is Player)
+
+Value 2: No. Of Beeps [2, 3, 4, 6]

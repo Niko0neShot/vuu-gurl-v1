@@ -1,0 +1,4 @@
+I didn't want to have to make separate events
+
+Value 1: The name you'll use in the onEvent function
+Value 2: Free variable

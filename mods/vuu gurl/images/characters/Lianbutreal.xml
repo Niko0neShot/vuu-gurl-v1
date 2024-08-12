@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lianbutreal.png">
+<SubTexture name="down0000" x="0" y="0" width="636" height="691" frameX="-326" frameY="-194" frameWidth="1000" frameHeight="900" />
+<SubTexture name="down0001" x="636" y="0" width="619" height="699" frameX="-336" frameY="-185" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0000" x="1255" y="0" width="635" height="696" frameX="-323" frameY="-191" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0001" x="1890" y="0" width="614" height="710" frameX="-340" frameY="-173" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0002" x="0" y="710" width="603" height="717" frameX="-351" frameY="-166" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0003" x="603" y="710" width="584" height="719" frameX="-370" frameY="-155" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0004" x="1187" y="710" width="582" height="726" frameX="-372" frameY="-148" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0000" x="1769" y="710" width="576" height="745" frameX="-359" frameY="-129" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0001" x="0" y="1455" width="575" height="739" frameX="-368" frameY="-135" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0000" x="575" y="1455" width="535" height="746" frameX="-443" frameY="-129" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0001" x="1110" y="1455" width="542" height="742" frameX="-431" frameY="-133" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0000" x="1652" y="1455" width="462" height="826" frameX="-497" frameY="-48" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0001" x="0" y="2281" width="481" height="800" frameX="-480" frameY="-74" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

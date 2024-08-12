@@ -1,0 +1,5 @@
+Add A stage script.
+
+Value 1: stage script name (limo, stage, chantown)
+
+Value 2: nothing.

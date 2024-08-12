@@ -1,0 +1,5 @@
+Has the space warning from Chaos pop up.
+Leave value blank for default value.
+
+Value 1: Time (Default is 4 steps of the song)
+Value 2: Ease (Default is CubeInOut)

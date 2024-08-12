@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "idle",
+			"indices": [],
+			"image": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "left",
+			"indices": [],
+			"image": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "right",
+			"indices": [],
+			"image": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down",
+			"indices": [],
+			"image": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				2
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "up",
+			"indices": [],
+			"image": ""
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/linkzin",
+	"position": [
+		-310,
+		-160
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		217,
+		33,
+		106
+	],
+	"healthicon": "link",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		13,
+		86
+	],
+	"camera_position": [
+		50,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

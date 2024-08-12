@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreenMan.png">
+<SubTexture name="down0000" x="0" y="0" width="193" height="181" frameX="-137" frameY="-170" frameWidth="400" frameHeight="400" />
+<SubTexture name="down0001" x="193" y="0" width="178" height="187" frameX="-147" frameY="-164" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0000" x="371" y="0" width="180" height="189" frameX="-150" frameY="-161" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0001" x="0" y="189" width="179" height="192" frameX="-151" frameY="-158" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0002" x="179" y="189" width="171" height="201" frameX="-155" frameY="-149" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0003" x="350" y="189" width="167" height="203" frameX="-157" frameY="-147" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0000" x="0" y="392" width="166" height="199" frameX="-156" frameY="-151" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0001" x="166" y="392" width="164" height="199" frameX="-158" frameY="-151" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0000" x="330" y="392" width="204" height="202" frameX="-158" frameY="-148" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0001" x="0" y="594" width="195" height="202" frameX="-158" frameY="-148" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0000" x="195" y="594" width="155" height="230" frameX="-163" frameY="-120" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0001" x="350" y="594" width="166" height="224" frameX="-158" frameY="-126" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

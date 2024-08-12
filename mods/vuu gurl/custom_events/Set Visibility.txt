@@ -1,0 +1,4 @@
+Set an object's visibility.
+
+Value 1: Object (stageback, sky, BG, etc.)
+Value 2: True or false. (Visible or Invisible.)

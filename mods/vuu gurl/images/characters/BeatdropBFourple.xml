@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BeatdropBF.png">
+<SubTexture name="down0000" x="0" y="0" width="368" height="376" frameX="-308" frameY="-382" frameWidth="1000" frameHeight="900" />
+<SubTexture name="down0001" x="368" y="0" width="362" height="382" frameX="-312" frameY="-376" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0000" x="730" y="0" width="411" height="394" frameX="-288" frameY="-364" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0001" x="0" y="394" width="404" height="397" frameX="-293" frameY="-361" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0002" x="404" y="394" width="389" height="406" frameX="-303" frameY="-352" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0003" x="793" y="394" width="380" height="410" frameX="-309" frameY="-348" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0000" x="0" y="804" width="365" height="410" frameX="-289" frameY="-348" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0001" x="365" y="804" width="366" height="410" frameX="-300" frameY="-348" frameWidth="1000" frameHeight="900" />
+<SubTexture name="miss0000" x="731" y="804" width="366" height="410" frameX="-323" frameY="-348" frameWidth="1000" frameHeight="900" />
+<SubTexture name="miss0001" x="731" y="804" width="366" height="410" frameX="-323" frameY="-348" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0000" x="0" y="1214" width="368" height="396" frameX="-346" frameY="-362" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0001" x="368" y="1214" width="362" height="396" frameX="-333" frameY="-362" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0000" x="730" y="1214" width="362" height="435" frameX="-328" frameY="-323" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0001" x="0" y="1649" width="372" height="428" frameX="-323" frameY="-330" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+Sets Color of Object
+
+Value 1: Object
+(For Healthbar: healthbarOpponent or healthbarPlayer)
+Value 2: Color

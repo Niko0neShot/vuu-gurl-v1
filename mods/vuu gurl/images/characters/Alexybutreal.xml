@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Alexybutreal.png">
+<SubTexture name="down0000" x="0" y="0" width="597" height="602" frameX="-403" frameY="-293" frameWidth="1000" frameHeight="900" />
+<SubTexture name="down0001" x="597" y="0" width="556" height="622" frameX="-430" frameY="-273" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0000" x="1153" y="0" width="563" height="609" frameX="-437" frameY="-286" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0001" x="0" y="622" width="564" height="625" frameX="-436" frameY="-270" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0002" x="564" y="622" width="557" height="634" frameX="-430" frameY="-261" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0003" x="1121" y="622" width="555" height="640" frameX="-427" frameY="-255" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0004" x="0" y="1262" width="554" height="642" frameX="-428" frameY="-253" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0000" x="554" y="1262" width="599" height="642" frameX="-363" frameY="-253" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0001" x="1153" y="1262" width="586" height="642" frameX="-388" frameY="-253" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0000" x="0" y="1904" width="542" height="644" frameX="-457" frameY="-251" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0001" x="542" y="1904" width="546" height="644" frameX="-447" frameY="-251" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0000" x="1088" y="1904" width="472" height="702" frameX="-481" frameY="-193" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0001" x="0" y="2606" width="501" height="680" frameX="-465" frameY="-215" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

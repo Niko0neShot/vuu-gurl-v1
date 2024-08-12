@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-171
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				-171
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				-171
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				-171
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				-171
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "ring-start",
+			"indices": [],
+			"name": "ring"
+		},
+		{
+			"offsets": [
+				0,
+				-171
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "no-ring",
+			"indices": [],
+			"name": "no ring"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-171
+			],
+			"anim": "transform",
+			"fps": 13,
+			"name": "transform",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-171
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Phone_Women",
+	"position": [
+		-210,
+		-320
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-100,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

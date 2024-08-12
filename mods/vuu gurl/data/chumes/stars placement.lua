@@ -1,0 +1,12 @@
+function onCreatePost()
+  setProperty('star1.x', getProperty('healthBar.x') + 85)
+  setProperty('star1.y', getProperty('healthBar.y') + -20)
+  setProperty('star2.x', getProperty('healthBar.x') + 155)
+  setProperty('star2.y', getProperty('healthBar.y') + -20)
+  setProperty('star3.x', getProperty('healthBar.x') + 225)
+  setProperty('star3.y', getProperty('healthBar.y') + -20)
+  setProperty('star4.x', getProperty('healthBar.x') + 295)
+  setProperty('star4.y', getProperty('healthBar.y') + -20)
+  setProperty('star5.x', getProperty('healthBar.x') + 365)
+  setProperty('star5.y', getProperty('healthBar.y') + -20)
+end

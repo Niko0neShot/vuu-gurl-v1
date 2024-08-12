@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "creation-emily idle",
+			"image": ""
+		},
+		{
+			"offsets": [
+				20,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "creation-emily left",
+			"image": ""
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "creation-emily down",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-20,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "creation-emily up",
+			"image": ""
+		},
+		{
+			"offsets": [
+				-3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "creation-emily right",
+			"image": ""
+		},
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "conf",
+			"indices": [],
+			"name": "creation-emily conf",
+			"image": ""
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/creation-emily",
+	"position": [
+		0,
+		0
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		255,
+		231,
+		104
+	],
+	"healthicon": "emily",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		211,
+		84
+	],
+	"camera_position": [
+		-30,
+		50
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

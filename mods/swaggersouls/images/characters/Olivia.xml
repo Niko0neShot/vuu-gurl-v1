@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Olivia.png">
+<SubTexture name="down0000" x="0" y="0" width="197" height="203" frameX="-109" frameY="-102" frameWidth="400" frameHeight="400" />
+<SubTexture name="down0001" x="197" y="0" width="188" height="210" frameX="-114" frameY="-94" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0000" x="385" y="0" width="220" height="199" frameX="-95" frameY="-106" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0001" x="0" y="210" width="212" height="203" frameX="-100" frameY="-102" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0002" x="212" y="210" width="195" height="220" frameX="-110" frameY="-84" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0003" x="407" y="210" width="188" height="225" frameX="-114" frameY="-79" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0000" x="0" y="435" width="188" height="222" frameX="-91" frameY="-82" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0001" x="188" y="435" width="188" height="222" frameX="-101" frameY="-82" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0000" x="376" y="435" width="189" height="223" frameX="-151" frameY="-81" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0001" x="0" y="658" width="188" height="223" frameX="-136" frameY="-81" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0000" x="188" y="658" width="176" height="238" frameX="-120" frameY="-66" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0001" x="364" y="658" width="188" height="231" frameX="-114" frameY="-73" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

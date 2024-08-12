@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Linkzin.png">
+<SubTexture name="down0000" x="0" y="0" width="177" height="221" frameX="-145" frameY="-151" frameWidth="400" frameHeight="400" />
+<SubTexture name="down0001" x="177" y="0" width="167" height="226" frameX="-152" frameY="-145" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0000" x="344" y="0" width="177" height="235" frameX="-143" frameY="-136" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0001" x="521" y="0" width="171" height="239" frameX="-147" frameY="-132" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0002" x="0" y="239" width="156" height="249" frameX="-154" frameY="-121" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0003" x="156" y="239" width="151" height="252" frameX="-157" frameY="-118" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0000" x="307" y="239" width="256" height="262" frameX="-55" frameY="-108" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0001" x="563" y="239" width="245" height="262" frameX="-69" frameY="-108" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0000" x="0" y="501" width="163" height="242" frameX="-183" frameY="-128" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0001" x="163" y="501" width="149" height="242" frameX="-177" frameY="-128" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0000" x="312" y="501" width="145" height="296" frameX="-156" frameY="-74" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0001" x="457" y="501" width="154" height="287" frameX="-151" frameY="-83" frameWidth="400" frameHeight="400" />
+</TextureAtlas>
