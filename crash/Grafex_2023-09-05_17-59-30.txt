@@ -1,4 +1,0 @@
-
-Uncaught Error: assets/states/MainMenuState.hx:144: Unknown variable: optionShit
-Please report this error to the pursnake in Discord
-
