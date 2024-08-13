@@ -1,7 +1,7 @@
 -- Created by RamenDominoes (Feel free to credit or not I don't really care)
 --Not bad for my first event created... I think
 
-hudStuff = {'healthBarBG', 'healthBar', 'scoreTxt', 'iconP1', 'iconP2', 'timeBar',  'timeBarBG', 'timeTxt'}
+hudStuff = {'healthBarBG', 'healthBar', 'iconP1', 'iconP2', 'star1', 'star2', 'star3', 'star4', 'star5', 'healthbarSacorg'}
 
 function onCreate()
 	
