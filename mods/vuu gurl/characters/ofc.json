@@ -1,100 +1,96 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-140,
-				-300
+				0,
+				0
 			],
+			"loop": false,
+			"fps": 13,
 			"anim": "idle",
-			"fps": 13,
-			"name": "idle0",
 			"indices": [],
-			"image": ""
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-146,
-				-301
+				0,
+				0
 			],
+			"loop": false,
+			"fps": 13,
 			"anim": "singLEFT",
-			"fps": 13,
-			"name": "left0",
 			"indices": [],
-			"image": ""
+			"name": "left"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-137,
-				-300
-			],
-			"anim": "singRIGHT",
-			"fps": 13,
-			"name": "right0",
-			"indices": [],
-			"image": ""
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-140,
-				-306
-			],
-			"anim": "singDOWN",
-			"fps": 13,
-			"name": "down0",
-			"indices": [],
-			"image": ""
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-142,
-				-300
+				0,
+				0
 			],
 			"anim": "singUP",
 			"fps": 13,
-			"name": "up0",
-			"indices": [],
-			"image": ""
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "right",
+			"indices": []
 		}
 	],
 	"sing_anims_prefix": "sing",
 	"no_antialiasing": true,
 	"healthicon_scale": 1,
+	"healthicon_type": "duo",
 	"gameover_properties": [
 		"bf-dead",
 		"fnf_loss_sfx",
 		"gameOver",
 		"gameOverEnd"
 	],
-	"image": "characters/OFC",
+	"image": "characters/ofc",
 	"position": [
-		-210,
-		-150
+		50,
+		200
 	],
 	"healthicon_offsets": [
 		0,
 		0
 	],
 	"healthbar_colors2": [
-		255,
-		255,
-		255
+		7,
+		115,
+		133
 	],
-	"healthicon": "noone",
+	"healthicon": "ofc",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		0,
-		0
+		7,
+		115,
+		133
 	],
 	"camera_position": [
-		170,
-		330
+		-250,
+		-250
 	],
-	"sing_duration": 6.1,
-	"scale": 1.2
+	"sing_duration": 4,
+	"scale": 3
 }
