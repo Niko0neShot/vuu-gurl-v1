@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "emi-mad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "emi-mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "emi-mad up",
+			"indices": []
+		},
+		{
+			"image": null,
+			"offsets": [
+				-1,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "emi-mad right"
+		},
+		{
+			"image": null,
+			"offsets": [
+				4,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "emi-mad left"
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/emi-mad",
+	"position": [
+		-40,
+		-100
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		255,
+		231,
+		104
+	],
+	"healthicon": "emily",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		231,
+		104
+	],
+	"camera_position": [
+		60,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}

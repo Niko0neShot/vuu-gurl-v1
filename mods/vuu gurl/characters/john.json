@@ -1,0 +1,140 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				73,
+				42
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				67,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				67,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				67,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				67,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				67,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				67,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				68,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				69,
+				37
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/JohnBear",
+	"position": [
+		200,
+		150
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		30,
+		185,
+		255
+	],
+	"healthicon": "john",
+	"flip_x": true,
+	"healthbar_colors": [
+		30,
+		185,
+		255
+	],
+	"camera_position": [
+		350,
+		-450
+	],
+	"sing_duration": 5,
+	"scale": 4
+}

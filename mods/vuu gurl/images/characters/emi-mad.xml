@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="emi-mad.png">
+<SubTexture name="emi-mad idle0000" x="649" y="0" width="323" height="587" frameX="-123" frameY="-95" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad idle0001" x="1605" y="0" width="323" height="583" frameX="-123" frameY="-99" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad idle0002" x="324" y="1197" width="327" height="565" frameX="-126" frameY="-117" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad idle0003" x="0" y="1197" width="324" height="574" frameX="-126" frameY="-108" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad idle0004" x="1605" y="583" width="323" height="583" frameX="-123" frameY="-99" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad idle0005" x="665" y="610" width="322" height="586" frameX="-124" frameY="-96" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad idle0006" x="972" y="0" width="322" height="587" frameX="-124" frameY="-95" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad up0000" x="0" y="0" width="324" height="610" frameX="-110" frameY="-70" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad up0001" x="0" y="0" width="324" height="610" frameX="-110" frameY="-70" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad up0002" x="324" y="0" width="325" height="599" frameX="-111" frameY="-81" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad up0003" x="324" y="0" width="325" height="599" frameX="-111" frameY="-81" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad left0000" x="1294" y="0" width="311" height="586" frameX="-104" frameY="-96" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad left0001" x="1294" y="0" width="311" height="586" frameX="-104" frameY="-96" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad left0002" x="1294" y="586" width="311" height="585" frameX="-116" frameY="-97" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad left0003" x="1294" y="586" width="311" height="585" frameX="-116" frameY="-97" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad down0000" x="974" y="1197" width="333" height="529" frameX="-145" frameY="-159" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad down0001" x="974" y="1197" width="333" height="529" frameX="-145" frameY="-159" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad down0002" x="651" y="1197" width="323" height="546" frameX="-152" frameY="-142" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad down0003" x="651" y="1197" width="323" height="546" frameX="-152" frameY="-142" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad right0000" x="0" y="610" width="336" height="587" frameX="-154" frameY="-95" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad right0001" x="0" y="610" width="336" height="587" frameX="-154" frameY="-95" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad right0002" x="336" y="610" width="329" height="587" frameX="-146" frameY="-95" frameWidth="700" frameHeight="700" />
+<SubTexture name="emi-mad right0003" x="336" y="610" width="329" height="587" frameX="-146" frameY="-95" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

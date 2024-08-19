@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				18
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-2,
+				4
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-1,
+				9
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				10,
+				5
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/Banny",
+	"position": [
+		150,
+		100
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		30,
+		185,
+		255
+	],
+	"healthicon": "banny",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		185,
+		255
+	],
+	"camera_position": [
+		-1000,
+		-450
+	],
+	"sing_duration": 6.1,
+	"scale": 4.1
+}

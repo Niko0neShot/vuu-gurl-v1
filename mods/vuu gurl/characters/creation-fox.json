@@ -1,64 +1,64 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "idle",
-			"image": "",
+			"fps": 12,
+			"name": "creation-fox idle",
 			"indices": [],
-			"name": "creation-fox idle"
+			"image": ""
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"image": "",
+			"fps": 24,
+			"name": "creation-fox left",
 			"indices": [],
-			"name": "creation-fox left"
+			"image": ""
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"image": "",
+			"fps": 24,
+			"name": "creation-fox down",
 			"indices": [],
-			"name": "creation-fox down"
+			"image": ""
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"image": "",
+			"fps": 24,
+			"name": "creation-fox up",
 			"indices": [],
-			"name": "creation-fox up"
+			"image": ""
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"image": "",
+			"fps": 24,
+			"name": "creation-fox right",
 			"indices": [],
-			"name": "creation-fox right"
+			"image": ""
 		}
 	],
 	"sing_anims_prefix": "sing",
@@ -74,7 +74,7 @@
 	"image": "characters/creation-fox",
 	"position": [
 		0,
-		0
+		50
 	],
 	"healthicon_offsets": [
 		0,
@@ -93,8 +93,8 @@
 		0
 	],
 	"camera_position": [
-		-180,
-		-60
+		50,
+		150
 	],
 	"sing_duration": 5.99999999999999,
 	"scale": 1

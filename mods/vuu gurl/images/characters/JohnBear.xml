@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JohnBear.png">
+<SubTexture name="down0000" x="0" y="0" width="146" height="186" frameX="-147" frameY="-169" frameWidth="400" frameHeight="400" />
+<SubTexture name="down0001" x="146" y="0" width="142" height="189" frameX="-149" frameY="-166" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0000" x="288" y="0" width="148" height="188" frameX="-146" frameY="-167" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0001" x="436" y="0" width="142" height="191" frameX="-149" frameY="-164" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0002" x="0" y="191" width="136" height="197" frameX="-152" frameY="-158" frameWidth="400" frameHeight="400" />
+<SubTexture name="idle0003" x="136" y="191" width="132" height="199" frameX="-154" frameY="-156" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0000" x="268" y="191" width="145" height="199" frameX="-138" frameY="-156" frameWidth="400" frameHeight="400" />
+<SubTexture name="left0001" x="413" y="191" width="139" height="199" frameX="-144" frameY="-156" frameWidth="400" frameHeight="400" />
+<SubTexture name="miss0000" x="0" y="390" width="132" height="199" frameX="-154" frameY="-156" frameWidth="400" frameHeight="400" />
+<SubTexture name="miss0001" x="0" y="390" width="132" height="199" frameX="-154" frameY="-156" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0000" x="132" y="390" width="142" height="199" frameX="-160" frameY="-156" frameWidth="400" frameHeight="400" />
+<SubTexture name="right0001" x="274" y="390" width="133" height="199" frameX="-160" frameY="-156" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0000" x="407" y="390" width="130" height="208" frameX="-152" frameY="-147" frameWidth="400" frameHeight="400" />
+<SubTexture name="up0001" x="0" y="598" width="135" height="204" frameX="-149" frameY="-151" frameWidth="400" frameHeight="400" />
+</TextureAtlas>
