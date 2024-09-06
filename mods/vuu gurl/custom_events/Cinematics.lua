@@ -1,70 +1,132 @@
 -- Created by RamenDominoes (Feel free to credit or not I don't really care)
 --Not bad for my first event created... I think
 
-hudStuff = {'healthBarBG', 'healthBar', 'iconP1', 'iconP2', 'star1', 'star2', 'star3', 'star4', 'star5', 'healthbarSacorg'}
+start = 0
+
+finish = 0
+
+
 
 function onCreate()
 	
-	if getPropertyFromClass('flixel.FlxG', 'save.data.psychUI') == false then -- kade ui
-		hudStuff = {'healthBarBG', 'healthBar', 'scoreTxt', 'iconP1', 'iconP2'}
-	end
 
 	--THE TOP BAR
-	makeLuaSprite('UpperBar', '', 0, -200)
-	makeGraphic('UpperBar', 1500, 200, '000000')
-	setObjectCamera('UpperBar', 'hud')
+	makeLuaSprite('UpperBar', 'empty', 0, -120)
+	makeGraphic('UpperBar', 1280, 120, '000000')
+	setObjectCamera('UpperBar', 'other')
 	addLuaSprite('UpperBar', false)
 
+
 	--THE BOTTOM BAR
-	makeLuaSprite('LowerBar', '', 0, 730)
-	makeGraphic('LowerBar', 1500, 200, '000000')
-	setObjectCamera('LowerBar', 'hud')
+	makeLuaSprite('LowerBar', 'empty', 0, 720)
+	makeGraphic('LowerBar', 1280, 120, '000000')
+	setObjectCamera('LowerBar', 'other')
 	addLuaSprite('LowerBar', false)
+
+end
+
+
+function onUpdate()
+
+	if start == 1 then
+	
+	doTweenY('Cinematics1', 'UpperBar', 0, 0.5, 'Linear')
+	doTweenY('Cinematics2', 'LowerBar', 600, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE1', 0, 120, 0.5, 'Linear')	
+	noteTweenY('NOTEMOVE2', 1, 120, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE3', 2, 120, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE4', 3, 120, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE5', 4, 120, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE6', 5, 120, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE7', 6, 120, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE8', 7, 120, 0.5, 'Linear')
+	doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 0.25)
+	doTweenAlpha('AlphaTween2', 'healthBar', 0, 0.25)
+	doTweenAlpha('AlphaTween3', 'scoreTxt', 0, 0.25)
+	doTweenAlpha('AlphaTween4', 'iconP1', 0, 0.25)
+	doTweenAlpha('AlphaTween5', 'iconP2', 0, 0.25)
+	doTweenAlpha('AlphaTween6', 'timeBar', 0, 0.25)
+	doTweenAlpha('AlphaTween7', 'timeBarBG', 0, 0.25)
+	doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
+
+	end
+
+	if downscroll and start == 1 then
+	
+	doTweenY('Cinematics1', 'UpperBar', 0, 0.5, 'Linear')
+	doTweenY('Cinematics2', 'LowerBar', 600, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE1', 0, 480, 0.5, 'Linear')	
+	noteTweenY('NOTEMOVE2', 1, 480, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE3', 2, 480, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE4', 3, 480, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE5', 4, 480, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE6', 5, 480, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE7', 6, 480, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE8', 7, 480, 0.5, 'Linear')
+	doTweenAlpha('AlphaTween1', 'healthBarBG', 0, 0.25)
+	doTweenAlpha('AlphaTween2', 'healthBar', 0, 0.25)
+	doTweenAlpha('AlphaTween3', 'scoreTxt', 0, 0.25)
+	doTweenAlpha('AlphaTween4', 'iconP1', 0, 0.25)
+	doTweenAlpha('AlphaTween5', 'iconP2', 0, 0.25)
+	doTweenAlpha('AlphaTween6', 'timeBar', 0, 0.25)
+	doTweenAlpha('AlphaTween7', 'timeBarBG', 0, 0.25)
+	doTweenAlpha('AlphaTween8', 'timeTxt', 0, 0.25)
+
+	end
+
+
+	if finish == 2 then
+	
+	doTweenY('Cinematics1', 'UpperBar', -120, 0.5, 'Linear')
+	doTweenY('Cinematics2', 'LowerBar', 720, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE1', 0, 50, 0.5, 'Linear')	
+	noteTweenY('NOTEMOVE2', 1, 50, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE3', 2, 50, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE4', 3, 50, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE5', 4, 50, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE6', 5, 50, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE7', 6, 50, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE8', 7, 50, 0.5, 'Linear')
+	doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 0.25)
+	doTweenAlpha('AlphaTween2', 'healthBar', 1, 0.25)
+	doTweenAlpha('AlphaTween3', 'scoreTxt', 1, 0.25)
+	doTweenAlpha('AlphaTween4', 'iconP1', 1, 0.25)
+	doTweenAlpha('AlphaTween5', 'iconP2', 1, 0.25)
+	doTweenAlpha('AlphaTween6', 'timeBar', 1, 0.25)
+	doTweenAlpha('AlphaTween7', 'timeBarBG', 1, 0.25)
+	doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
+	
+	end
+
+	if downscroll and finish == 2 then
+	
+	doTweenY('Cinematics1', 'UpperBar', -120, 0.5, 'Linear')
+	doTweenY('Cinematics2', 'LowerBar', 720, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE1', 0, 570, 0.5, 'Linear')	
+	noteTweenY('NOTEMOVE2', 1, 570, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE3', 2, 570, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE4', 3, 570, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE5', 4, 570, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE6', 5, 570, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE7', 6, 570, 0.5, 'Linear')
+	noteTweenY('NOTEMOVE8', 7, 570, 0.5, 'Linear')
+	doTweenAlpha('AlphaTween1', 'healthBarBG', 1, 0.25)
+	doTweenAlpha('AlphaTween2', 'healthBar', 1, 0.25)
+	doTweenAlpha('AlphaTween3', 'scoreTxt', 1, 0.25)
+	doTweenAlpha('AlphaTween4', 'iconP1', 1, 0.25)
+	doTweenAlpha('AlphaTween5', 'iconP2', 1, 0.25)
+	doTweenAlpha('AlphaTween6', 'timeBar', 1, 0.25)
+	doTweenAlpha('AlphaTween7', 'timeBarBG', 1, 0.25)
+	doTweenAlpha('AlphaTween8', 'timeTxt', 1, 0.25)
+	
+	end
+	
 end
 
 function onEvent(name,value1,value2)
 	if name == 'Cinematics' then
-		local start = tonumber(value1)
-		local time = 0.2
-		
-		if value2 == '2' or start == 2 then
-			time =  0.5
-		end
-
-		if value2 ~= "2" and value2 ~= "" then
-			time = tonumber(value2)	
-		end
-
-		if start == 1 then
-			if time == 0 then
-				setProperty('UpperBar.x', -96)
-				setProperty('LowerBar.x', 624)
-				for i = 1, #hudStuff do
-					setProperty(hudStuff[i]..'.alpha', 0)
-				end
-			else
-				doTweenY('Cinematics1', 'UpperBar', -96, time, 'sineinout')
-				doTweenY('Cinematics2', 'LowerBar', 624, time, 'sineinout')
-				for i = 1, #hudStuff do
-					doTweenAlpha('AlphaTween'..i, hudStuff[i], 0, time+0.05)
-				end
+		start = tonumber(value1)
+		finish = tonumber(value2)
 			end
+	
 		end
-
-		if start == 2 or value2 == '2' then
-			if time == 0 then
-				setProperty('UpperBar.x', -200)
-				setProperty('LowerBar.x', 730)
-				for i = 1, #hudStuff do
-					setProperty(hudStuff[i]..'.alpha', 1)
-				end
-			else
-				doTweenY('Cinematics1', 'UpperBar', -200, time, 'sineinout')
-				doTweenY('Cinematics2', 'LowerBar', 730, time, 'sineinout')
-				for i = 1, #hudStuff do
-					doTweenAlpha('AlphaTween'..i, hudStuff[i], 1, time+0.05)
-				end
-			end
-		end
-	end
-end

@@ -1,9 +1,9 @@
-function onCreatePost()
+function onCreate()
 	makeLuaSprite('whitebg', '', 0, 0)
 	setScrollFactor('whitebg', 0, 0)
 	makeGraphic('whitebg', 10000, 10000, '000000')
 	addLuaSprite('whitebg', false)
-	setProperty('whitebg.alpha', 0)
+	setProperty('whitebg.alpha', 0.000001)
 	screenCenter('whitebg', 'xy')
 end
 function onEvent(n, v1, v2)

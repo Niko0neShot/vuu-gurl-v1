@@ -12,10 +12,8 @@ function onEvent(name, value1, value2)
 	    scaleObject('image', 0.8, 0.8)
 	    setLuaSpriteScrollFactor('image',1, 1)
             setObjectCamera('image', 'hud')
-	    addAnimationByPrefix('image', 'anim', 'solo time', 24, false)
+	    addAnimationByPrefix('image', 'anim', 'solo_time', 24, false)
             screenCenter('image')
-            --setProperty('image.y', getProperty('image.y') + 35)
-            setProperty('image.x', getProperty('image.x') + 75)
             addLuaSprite('image', true);
 
             objectPlayAnimation('image', 'anim', true)
