@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				73,
+				76,
 				42
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				67,
-				37
+				77,
+				42
 			],
 			"loop": false,
 			"fps": 13,
@@ -24,52 +24,8 @@
 		},
 		{
 			"offsets": [
-				67,
-				37
-			],
-			"loop": false,
-			"fps": 13,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "miss"
-		},
-		{
-			"offsets": [
-				67,
-				37
-			],
-			"loop": false,
-			"fps": 13,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "miss"
-		},
-		{
-			"offsets": [
-				67,
-				37
-			],
-			"loop": false,
-			"fps": 13,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "miss"
-		},
-		{
-			"offsets": [
-				67,
-				37
-			],
-			"loop": false,
-			"fps": 13,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "miss"
-		},
-		{
-			"offsets": [
-				67,
-				37
+				71,
+				42
 			],
 			"loop": false,
 			"fps": 13,
@@ -79,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				68,
-				37
+				74,
+				42
 			],
 			"loop": false,
 			"fps": 13,
@@ -90,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				69,
-				37
+				75,
+				40
 			],
 			"loop": false,
 			"fps": 13,
@@ -110,10 +66,10 @@
 		"gameOver",
 		"gameOverEnd"
 	],
-	"image": "characters/JohnBear",
+	"image": "characters/JohnBearRemade",
 	"position": [
-		200,
-		150
+		250,
+		250
 	],
 	"healthicon_offsets": [
 		0,
@@ -132,9 +88,9 @@
 		255
 	],
 	"camera_position": [
-		350,
-		-450
+		0,
+		-250
 	],
 	"sing_duration": 5,
-	"scale": 4
+	"scale": 2.5
 }

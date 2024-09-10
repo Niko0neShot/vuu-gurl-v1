@@ -1,0 +1,33 @@
+{
+  "directory": "",
+  "defaultZoom": 0.8,
+  "isPixelStage": false,
+	"ratings_offset": [100, 300],
+  "boyfriend": [
+    966.67,
+    350.0
+  ],
+  "girlfriend": [
+    625.0,
+    325.17000000000002
+  ],
+  "opponent": [
+    -52.5,
+    350.82999999999998
+  ],
+  "hide_girlfriend": false,
+  "camera_boyfriend": [
+    0.0,
+    0.0
+  ],
+  "camera_opponent": [
+    0.0,
+    0.0
+  ],
+  "camera_girlfriend": [
+    0.0,
+    0.0
+  ],
+  "camera_speed": 2,
+        "dynamic_camera": true
+}

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GFOFC.png">
+<SubTexture name="dance left0000" x="0" y="0" width="112" height="181" frameX="-34" frameY="-44" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance left0001" x="112" y="0" width="111" height="182" frameX="-36" frameY="-43" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance left0002" x="223" y="0" width="108" height="185" frameX="-42" frameY="-40" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance left0003" x="0" y="185" width="108" height="186" frameX="-43" frameY="-39" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance right0000" x="108" y="185" width="114" height="180" frameX="-45" frameY="-45" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance right0001" x="222" y="185" width="116" height="179" frameX="-45" frameY="-46" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance right0002" x="108" y="185" width="114" height="180" frameX="-45" frameY="-45" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance right0003" x="0" y="371" width="110" height="185" frameX="-43" frameY="-40" frameWidth="190" frameHeight="238" />
+<SubTexture name="dance right0004" x="0" y="185" width="108" height="186" frameX="-43" frameY="-39" frameWidth="190" frameHeight="238" />
+</TextureAtlas>

@@ -5,7 +5,9 @@ function onCreatePost()
     --setTextAlignment("GAY", "center")
     --setTextSize('GAY', 17)
     --setTextBorder('GAY', 1, '000000')
-    setTextSize('scoreTxt', 17)
+    setProperty('scoreTxt.y', 50)
+    setProperty('scoreTxt.x', 110)
+    setTextSize('scoreTxt', 18)
     setTextBorder('scoreTxt', 1, '000000')
     setScrollFactor("GAY", 0, 0)
     setObjectCamera("GAY", "hud")
@@ -14,9 +16,9 @@ function onCreatePost()
 end
 function onUpdatePost()
     if getPropertyFromClass("grafex.util.ClientPrefs", "classicScoreTxt", true) then
-        setTextString('scoreTxt', 'Vuu Points! : ' .. score)
+        setTextString('scoreTxt', '~ SCORE ~\n[ ' .. score .. ' ]')
     else
-        setTextString('scoreTxt', 'How Vuu You Are : ' .. score .. ' ~ Misses : ' .. misses .. ' ~ Accuracy : ' .. floorInDecimal(rating*100, 2) .. '%')
+        setTextString('scoreTxt', '~ SCORE ~\n[ ' .. score .. ' ]')
     end
 	setProperty('popUpComboScore', false, false)
 end

@@ -44,9 +44,3 @@ scaleObject('star5', 0.98, 0.98)
 setScrollFactor('star5', 1, 1)
 setProperty('star5.visible', true)
 end
-
-
-
-function onUpdate() 
-setProperty('scoreTxt.visible', false)
-end

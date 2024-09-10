@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gfdelivery.png">
+<SubTexture name="idle0000" x="0" y="0" width="255" height="230" frameX="-17" frameY="-42" frameWidth="282" frameHeight="281" />
+<SubTexture name="idle0001" x="0" y="230" width="251" height="232" frameX="-19" frameY="-40" frameWidth="282" frameHeight="281" />
+<SubTexture name="idle0002" x="0" y="462" width="237" height="252" frameX="-27" frameY="-20" frameWidth="282" frameHeight="281" />
+<SubTexture name="idle0003" x="0" y="714" width="232" height="254" frameX="-29" frameY="-18" frameWidth="282" frameHeight="281" />
+</TextureAtlas>

@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-2
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-71,
+				-2
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				-60,
+				-3
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"image": null,
+			"name": "up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "right0",
+			"image": null,
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down0",
+			"image": null,
+			"indices": []
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/Gfdelivery",
+	"position": [
+		260,
+		180
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		94,
+		67,
+		186
+	],
+	"healthicon": "bfvuu",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		67,
+		186
+	],
+	"camera_position": [
+		36,
+		-27
+	],
+	"sing_duration": 6.1,
+	"scale": 2.6
+}

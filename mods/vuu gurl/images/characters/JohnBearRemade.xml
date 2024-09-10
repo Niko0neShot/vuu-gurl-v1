@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JohnBearRemade.png">
+<SubTexture name="idle0000" x="0" y="0" width="136" height="240" frameX="-118" frameY="-98" frameWidth="366" frameHeight="382" />
+<SubTexture name="idle0001" x="136" y="0" width="133" height="243" frameX="-120" frameY="-95" frameWidth="366" frameHeight="382" />
+<SubTexture name="idle0002" x="269" y="0" width="121" height="258" frameX="-126" frameY="-80" frameWidth="366" frameHeight="382" />
+<SubTexture name="idle0003" x="390" y="0" width="119" height="261" frameX="-127" frameY="-77" frameWidth="366" frameHeight="382" />
+<SubTexture name="left0000" x="0" y="261" width="116" height="261" frameX="-121" frameY="-77" frameWidth="366" frameHeight="382" />
+<SubTexture name="left0001" x="116" y="261" width="117" height="261" frameX="-123" frameY="-77" frameWidth="366" frameHeight="382" />
+<SubTexture name="right0000" x="233" y="261" width="125" height="261" frameX="-133" frameY="-77" frameWidth="366" frameHeight="382" />
+<SubTexture name="right0001" x="358" y="261" width="121" height="261" frameX="-129" frameY="-77" frameWidth="366" frameHeight="382" />
+<SubTexture name="down0000" x="0" y="522" width="163" height="253" frameX="-85" frameY="-85" frameWidth="366" frameHeight="382" />
+<SubTexture name="down0001" x="163" y="522" width="157" height="256" frameX="-89" frameY="-82" frameWidth="366" frameHeight="382" />
+<SubTexture name="up0000" x="320" y="522" width="117" height="263" frameX="-127" frameY="-75" frameWidth="366" frameHeight="382" />
+<SubTexture name="up0001" x="437" y="522" width="121" height="261" frameX="-125" frameY="-77" frameWidth="366" frameHeight="382" />
+</TextureAtlas>

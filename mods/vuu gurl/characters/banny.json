@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-2,
-				4
+				29,
+				15
 			],
 			"loop": false,
 			"fps": 13,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-1,
-				9
+				39,
+				0
 			],
 			"loop": false,
 			"fps": 13,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				10,
-				5
+				-17,
+				18
 			],
 			"loop": false,
 			"fps": 13,
@@ -66,10 +66,10 @@
 		"gameOver",
 		"gameOverEnd"
 	],
-	"image": "characters/Banny",
+	"image": "characters/BannyRemade",
 	"position": [
-		150,
-		100
+		100,
+		200
 	],
 	"healthicon_offsets": [
 		0,
@@ -88,9 +88,9 @@
 		255
 	],
 	"camera_position": [
-		-1000,
-		-450
+		-650,
+		-240
 	],
 	"sing_duration": 6.1,
-	"scale": 4.1
+	"scale": 2.5
 }

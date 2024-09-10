@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "dance right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "dance left"
+		}
+	],
+	"sing_anims_prefix": "sing",
+	"no_antialiasing": true,
+	"healthicon_scale": 1,
+	"healthicon_type": "duo",
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/GFOFC",
+	"position": [
+		350,
+		250
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		7,
+		115,
+		133
+	],
+	"healthicon": "bfofc",
+	"flip_x": false,
+	"healthbar_colors": [
+		7,
+		115,
+		133
+	],
+	"camera_position": [
+		-330,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 3
+}
