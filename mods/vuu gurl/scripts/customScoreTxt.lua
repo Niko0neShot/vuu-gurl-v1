@@ -9,6 +9,7 @@ function onCreatePost()
     setProperty('scoreTxt.x', 110)
     setTextSize('scoreTxt', 18)
     setTextBorder('scoreTxt', 1, '000000')
+    setTextAlignment("scoreTxt", "center")
     setScrollFactor("GAY", 0, 0)
     setObjectCamera("GAY", "hud")
     --addLuaText("GAY", true)
@@ -17,6 +18,7 @@ end
 function onUpdatePost()
     if getPropertyFromClass("grafex.util.ClientPrefs", "classicScoreTxt", true) then
         setTextString('scoreTxt', '~ SCORE ~\n[ ' .. score .. ' ]')
+    	setProperty('scoreTxt.x', 560)
     else
         setTextString('scoreTxt', '~ SCORE ~\n[ ' .. score .. ' ]')
     end

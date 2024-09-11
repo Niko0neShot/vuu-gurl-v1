@@ -9,21 +9,9 @@ local savedOPTex
 local savedPLTex
 
 function onCreate()
-    makeLuaSprite('cinemadeez1')
-    makeLuaSprite('cinemadeez2')
-    makeGraphic('cinemadeez1', 1500, 25, '000000')
-    makeGraphic('cinemadeez2', 1500, 25, '000000')
-    addLuaSprite('cinemadeez1', true)
-    addLuaSprite('cinemadeez2', true)
-    setObjectCamera('cinemadeez1', 'HUD')
-    setObjectCamera('cinemadeez2', 'OTHER')
-    setProperty('cinemadeez1.y', 720)
-    setProperty('cinemadeez2.y', -25)
-    setProperty('cinemadeez1.color', '0xFF000000')
-    setProperty('cinemadeez2.color', '0xFF000000')
-    setObjectOrder('cinemadeez1', 1)
-    setObjectOrder('cinemadeez2', 0)
-
+    makeLuaSprite('border','overlay',0,0)
+    addLuaSprite('border',false)
+    setObjectCamera('border','hud')
 end
 function onCreatePost()
     checkCharacter()
@@ -122,10 +110,4 @@ function round(x, n)
     x = x * n
     if x >= 0 then x = math.floor(x + 0.5) else x = math.ceil(x - 0.5) end
     return x / n
-end
-
-
-function onSongStart()
-    doTweenY('cinemadeez1Y', 'cinemadeez1', 705, 2.5, 'circOut')
-    doTweenY('cinemadeez2Y', 'cinemadeez2', -10, 2.5, 'circOut')
 end
