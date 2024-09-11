@@ -12,6 +12,7 @@ function onCreate()
     makeLuaSprite('border','overlay',0,0)
     addLuaSprite('border',false)
     setObjectCamera('border','hud')
+    setProperty('border.antialiasing', false);
 end
 function onCreatePost()
     checkCharacter()

@@ -2,7 +2,12 @@ import grafex.system.notes.StrumNote;
 import grafex.system.notes.Note;
 import grafex.system.statesystem.MusicBeatState;
 import grafex.states.options.OptionsMenu;
+import grafex.util.Highscore;
+import Sys;
 
+var scoreAlphaTween = null;
+public static var initalHealth:Float = 50;
+final notesYArray = [];
 
 
 
